@@ -1,0 +1,4 @@
+2026-06-20 14:36:43 | LAPIZ | Cant: 80 | Precio U: $1.500.00 | Total: $12.000.000
+2026-06-20 20:01:53 | LAPIZ | Cant: 1 | Precio U: $1.500.00 | Total: $1.500.00
+2026-06-21 11:44:28 | BORRADOR | Cant: 1 | Precio U: $800.00 | Total: $800.00
+2026-06-21 11:44:38 | LAPIZ | Cant: 2 | Precio U: $1500.00 | Total: $3000.00
