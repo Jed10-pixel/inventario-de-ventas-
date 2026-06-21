@@ -3,7 +3,7 @@ from datetime import datetime
 import os
 
 app = Flask(__name__)
-ARCHIVO_VENTAS = os.path.join(os.path.dirname(__file__), "ventas_trendy_web.txt")
+ARCHIVO_VENTAS = os.path.join(os.path.dirname(__file__), "ventas_trendy_web.txt"<)
 
 def guardar_venta(producto, cantidad, precio, total):
     fecha_hora = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
